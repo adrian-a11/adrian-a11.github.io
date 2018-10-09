@@ -6,4 +6,5 @@ gh-repo: daattali/beatuiful-jekyll
 tags:
 ---
 
-This is a test post!
+Name: Dipoli (_Dipoli Student Union, Dipoli Conference Center_)
+Location: 
