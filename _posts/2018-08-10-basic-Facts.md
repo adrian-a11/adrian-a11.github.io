@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Testing
-Subtitle:
+title: Basic Facts
+subtitle:
 gh-repo: daattali/beatuiful-jekyll
 tags:
 ---
